@@ -1,0 +1,18 @@
+
+/*color*/
+:root{
+
+}
+
+*{
+    /*Put the font size/ type here*/
+}
+
+html{
+    scroll-padding-top:5.5rem ;
+    scroll-behavior: smooth;
+}
+
+section:nth-child(even){
+
+}
